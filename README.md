@@ -1,5 +1,12 @@
 # minidecaf
 
+suppoert features: 
+- INT type.
+- variable scope.
+- basic logical operators, arithmetic operators and bitwise operators.
+- functions.
+- array, pointer and address operator.
+
 | file names | intro |
 | --- | --- |
 | `prepare.sh` | pre-run script, parser generator etc |
